@@ -1,5 +1,5 @@
 # The Remote Freelancer
-List of community-curated resources to find topical remote freelance &amp; contract work for software developers, web designers, and more!
+List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 
 See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation on how popular the site is, with #1 being the most viewed site on the internet in the US. Up until 2022 Alexa was used, Similar web will be used for future ratings. [Graph of changes over time](https://public.tableau.com/profile/andrew.chase#!/vizhome/theremotefreelancer/AlexaRankOverTime?publish=yes)
 
@@ -47,6 +47,7 @@ See [Why](#why) and [Contributing](#contributing). Rank: This is an estimation o
 | [RemoteYeah](https://remoteyeah.com/)                                                    | 2,000,000      |            | Data Scientists & Developers              |
 | [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)                        | 8,000,000      |            | AI/Machine learning jobs, filter on remote jobs  |
 | [Team Extension](https://teamextension.io/)                                              | 8,000,000      |            | Eastern Euro Developers, Designers, QA
+| [Remote1st](https://www.remote1stjobs.com)                                               | unlisted       |            | Variety                                   |
 | **Agency**                                                                               |                |            |                                           |
 | **Name**                                                                                 | **Rank** |            | **Hires these Types**                     |
 | [Codeable](https://codeable.io/)                                                         | 40,000         |            | Wordpress Developers developers           |
